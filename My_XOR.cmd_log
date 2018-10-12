@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/sasangp/Documents/VHDL/FullAdder/My_XOR.xst" -ofn "C:/Users/sasangp/Documents/VHDL/FullAdder/My_XOR.syr" 

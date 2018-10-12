@@ -1,0 +1,5 @@
+vhdl work "My_XOR.vhd"
+vhdl work "My_OR.vhd"
+vhdl work "My_AND.vhd"
+vhdl work "OneBit_FA.vhd"
+vhdl work "TwoBit_FA.vhd"

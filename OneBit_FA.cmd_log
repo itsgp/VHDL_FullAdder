@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "C:/Users/sasangp/Documents/VHDL/FullAdder/OneBit_FA.xst" -ofn "C:/Users/sasangp/Documents/VHDL/FullAdder/OneBit_FA.syr" 
+xst -intstyle ise -ifn "C:/Users/sasangp/Documents/VHDL/FullAdder/OneBit_FA.xst" -ofn "C:/Users/sasangp/Documents/VHDL/FullAdder/OneBit_FA.syr" 
+xst -intstyle ise -ifn "C:/Users/sasangp/Documents/VHDL/FullAdder/OneBit_FA.xst" -ofn "C:/Users/sasangp/Documents/VHDL/FullAdder/OneBit_FA.syr" 
+xst -intstyle ise -ifn "C:/Users/sasangp/Documents/VHDL/FullAdder/OneBit_FA.xst" -ofn "C:/Users/sasangp/Documents/VHDL/FullAdder/OneBit_FA.syr" 
